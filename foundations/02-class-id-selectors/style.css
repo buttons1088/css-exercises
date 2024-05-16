@@ -1,0 +1,18 @@
+.odd-numbers {
+    background-color: #FFB6C1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#element-two {
+    color: blue;
+    font-size: 36px
+}
+
+.large-font {
+    font-size: 24px
+}
+
+#element-four {
+    font: size 24px;
+    background-color: #D1FFBD;
+}
